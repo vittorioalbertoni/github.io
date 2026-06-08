@@ -6,4 +6,6 @@ Così il computer è per me gradualmente diventato un appassionante hobby e ques
 
 Il materiale presente nel repository è destinato a principianti e dilettanti, ma non è escluso che anche un professionista vi trovi qualche cosa di utile.
 
+La cartella **articoli** contiene testi di introduzione degli argomenti e la cartella **pdf** contiene manuali in formato pdf allegati agli articoli.
+
 Vittorio Albertoni
